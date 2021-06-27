@@ -1,1 +1,4 @@
-First day opening a blog!
+---
+title: "Welcome to my blog"
+date: 2021-06-27
+---
